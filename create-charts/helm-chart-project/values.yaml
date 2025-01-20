@@ -1,4 +1,4 @@
-# Default values for helm_chart_project.
+# Default values for helm-chart-project.
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
 
