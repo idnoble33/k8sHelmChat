@@ -6,8 +6,8 @@ keywords:
   - "web-app"
 
 maintainers:
-  - "Idowu Bello"
-  - "idbee@gmail.com"
+  - name: "Idowu Bello"
+  - email: "idbee@gmail.com"
 
 
 # A chart can be either an 'application' or a 'library' chart.
